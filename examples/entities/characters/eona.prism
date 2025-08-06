@@ -1,0 +1,32 @@
+@entity: eona
+---
+@@systemic
+title: Eona
+owner: @aegis-ai
+status: CANONICAL
+access_view: PUBLIC
+access_edit: GUARDIANS
+primary_aspect: textual
+tags: Tipo:Personagem, Papel:Curandeira, Cultura:VilaAcolhedora
+---
+@@textual(pt-BR)
+version: 1
+
+Uma curandeira sábia e gentil da [@vila-acolhedora], esposa de [@moek]. Ela possui um conhecimento profundo das ervas e lendas locais, incluindo o poder das [@espigas-de-lun] e os segredos da [@gruta-dos-cristais-cintilantes]. Foi Eona quem cuidou das feridas do [@o-orfao] e lhe ofereceu o primeiro gesto de bondade, demonstrando uma força tranquila e uma grande compaixão.
+---
+@@relations
+version: 1
+EsposaDe: @moek
+Acolheu: @o-orfao
+ResideEm: @vila-acolhedora
+Conhece: @espigas-de-lun
+Conhece: @gruta-dos-cristais-cintilantes
+---
+@@visual
+version: 1
+url: https://placehold.co/600x400.png
+media_type: image/png
+author: @aegis-ai
+license: CC BY-NC-SA 4.0
+data-ai-hint: old female healer
+---

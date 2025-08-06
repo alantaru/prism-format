@@ -1,0 +1,78 @@
+@entity: lamento-do-rei
+---
+@@systemic
+title: Lamento do Rei
+owner: @shaper-isaac
+status: CANONICAL
+access_view: PUBLIC
+access_edit: GUARDIANS
+primary_aspect: visual
+tags: Raridade:Única, Poder:Alto, Tipo:Espada, Artefato
+---
+@@textual(pt-BR)
+version: 3
+
+@@chapter: O Início
+
+Era uma vez, em uma terra distante...
+
+@@chapter: A Aventura
+
+... a jornada começou.
+---
+@@visual
+version: 1
+url: gs://prismma-assets/swords/king-lament-v1.png
+thumbnail_url: gs://prismma-assets/swords/king-lament-v1_thumb.webp
+media_type: image/png
+author: @artista_lendario
+license: CC BY-NC-SA 4.0
+---
+@@temporal
+version: 1
+start_date: 1452-03-15T00:00:00Z
+precision: DAY
+---
+@@relations
+version: 4
+DescobertaPor: @elara-aventureira
+ForjadoCom: @metal-estelar
+LocalDeRepouso: @tumba-da-rainha-esquecida
+---
+@@adaptation
+version: 1
+target_entity: @lamento-do-rei
+adaptation_type: REMIX
+
+Esta é uma adaptação da espada Lamento do Rei, com um novo design e poderes.
+---
+@@comment
+version: 1
+author: @leitor-curioso
+target_entity: @lamento-do-rei
+target_aspect: textual
+target_chapter: @o-inicio
+
+Este é um comentário sobre o início da história.
+---
+@@template
+version: 1
+name: Espada Lendária
+description: Um modelo para criar novas espadas lendárias.
+
+@@systemic
+title: Nova Espada Lendária
+owner: @criador
+status: DRAFT
+access_view: PUBLIC
+access_edit: OWNER
+primary_aspect: visual
+tags: Raridade:Lendária, Poder:Alto, Tipo:Espada
+---
+@@visual
+version: 1
+url: gs://prismma-assets/swords/nova-espada-lendaria.png
+thumbnail_url: gs://prismma-assets/swords/king-lament-v1_thumb.webp
+media_type: image/png
+author: @criador
+license: CC BY-NC-SA 4.0

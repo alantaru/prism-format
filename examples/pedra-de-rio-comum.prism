@@ -1,0 +1,37 @@
+# Entidade para o Conto Fundador, o texto principal.
+# Substitui o antigo pedra-de-rio-comum.prism.
+
+@entity: conto-do-orfao
+---
+@@systemic
+title: O Conto do Órfão
+owner: @aegis-ai
+status: CANONICAL
+access_view: PUBLIC
+access_edit: GUARDIANS
+primary_aspect: textual
+tags: Tipo:História, Categoria:LoreFundacional, Documento:Folio
+---
+@@textual(pt-BR)
+version: 1
+
+@@chapter: A Chegada
+
+Sem memória? A voz de [@moek] era cascalho e descrença. Nunca, em todos os seus anos na [@vila-acolhedora], ouvira falar de tal aflição.
+
+Assim ele estava, respondeu [@eona], sua mulher. Os lenhadores o encontraram na primeira luz cinzenta, caído como um fruto estranho na orla do [@bosque-da-colina]. Eu voltava da clareira, as mãos cheias das [@espigas-de-lun]... e os vi. Traziam-no nos braços, este pobre rapaz, [@o-orfao].
+
+Enquanto Eona cuidava das feridas e Moek o sondava com perguntas, o jovem naufragava em um oceano interior. Fragmentos rodopiavam em sua mente – não pensamentos, mas cacos de espelho refletindo luzes impossíveis: [@luz-violeta-insana], [@luz-vermelha-maligna], [@luz-azul-ancia].
+
+Imagens o assaltavam: uma cidade engolida por chamas (@oakhaven?), o brilho faminto de um dragão colossal (@ignis-o-dragao?), o fulgor frio e líquido (@luz-liquida?) usado em rituais pelo [@culto-da-noite-eterna] para espiar o [@plano-das-sombras]. Eram memórias? Ou Ecos de Potencialidade?
+
+@@chapter: A Cosmogênese
+
+No início havia [@as-sete-luzes]. Eram sete consciências, das quais tudo o mais se originou.
+
+Um dia criaram [@o-prisma-das-sete-faces]. Mas algo, só porque é perfeito, não significa que seja completo. E o próprio universo sentiu uma necessidade natural, que é [@o-caos-primordial].
+
+Nunca, pelo menos até aquele dia. O dia em que o caos encontrou uma forma de ser visto no mundo. Encontrou uma forma humana. Mas algo saiu errado. O corpo escolhido, assim que ficou pronto, caiu de uma grande altura e perdeu a memória.
+
+Assim, desta forma caótica e fora dos planos, nasceu [@o-orfao], a oitava consciência.
+---

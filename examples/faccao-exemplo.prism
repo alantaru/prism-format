@@ -1,0 +1,26 @@
+# Entidade para o Culto da Noite Eterna, mencionado no Conto Fundador.
+# Substitui o antigo faccao-exemplo.prism.
+
+@entity: culto-da-noite-eterna
+---
+@@systemic
+title: Culto da Noite Eterna
+owner: @aegis-ai
+status: CANONICAL
+access_view: PUBLIC
+access_edit: GUARDIANS
+primary_aspect: textual
+tags: Tipo:Culto, Ameaça:Alta, Alinhamento:Misterioso
+---
+@@textual(pt-BR)
+version: 1
+
+Um grupo enigmático que parece ter conhecimento sobre a escuridão e os mistérios do universo. Eles são conhecidos por realizar rituais secretos nas profundezas, usando "Luz Líquida" para espiar o Plano das Sombras. Suas verdadeiras intenções e sua relação com o Caos Primordial são desconhecidas.
+---
+@@relations
+version: 1
+InimigoDe: @as-sete-luzes
+BuscaConhecimentoSobre: @o-orfao
+OperaEm: @plano-das-sombras
+Utiliza: @luz-liquida
+---
